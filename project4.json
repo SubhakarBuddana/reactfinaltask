@@ -1,0 +1,20 @@
+{
+	"details1": {
+		"image1": "profile.png",
+		"Name": "Subhakar Buddana",
+		"email": "buddanasubhakar@gmail.com",
+		"phoneNumber": "+91-9999999999",
+		"Profession": "Student",
+		"address": "Hyderabad",
+        "resume":"Static"
+	},
+    "details2": {
+		"image2": "profile2.png",
+		"Name": "Subhakar Buddana",
+		"email": "buddanasubhakar@gmail.com",
+		"phoneNumber": "+91-9999999999",
+		"Profession": "Student",
+		"address": "Hyderabad",
+        "resume":"Dynamic"
+	}
+}

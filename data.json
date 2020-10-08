@@ -1,0 +1,50 @@
+{
+	"details": {
+		"image": "profile.png",
+		"Name": "Subhakar Buddana",
+		"email": "buddanasubhakar@gmail.com",
+		"phoneNumber": "+91-9999999999",
+		"Profession": "Student",
+		"address": "Hyderabad"
+	},
+	"CareerObjective": {
+		"info1": "To Become a Software Developer"
+	},
+	"EducationalQualification": [{
+			"institute":"Sagi Rama Krishnam Raju",
+			"degree": "B.tech",
+			"passoutyear": "2020",
+			"percentage": "99%"
+
+
+
+		},
+		{
+			"institute": "Sri Chaitanya Junior College",
+			"degree": "+1 +2",
+            "passoutyear": "2018",
+			"percentage": "98%"
+		},
+		{
+			"institute": "Sir CRR Public School",
+			"degree": "CBSE",
+			"passoutyear": "2013",
+			"percentage": "98%"
+		}
+
+
+	],
+	"TechnicalSkills": [{
+			"title": "Programming Languages",
+			"info": ["c,Python,java,R"]
+		},
+		{
+			"title": "Databases",
+			"info": ["Oracle,Sql,mysql,"]
+		},
+		{
+			"title": "OperatingSystem",
+			"info": ["Windows,Lynex"]
+		}
+	]
+}
